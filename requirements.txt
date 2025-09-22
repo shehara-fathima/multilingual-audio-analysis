@@ -1,0 +1,8 @@
+pydub
+os
+python-dotenv
+pyannote
+transformers
+torch
+vaderSentiment
+soniox
